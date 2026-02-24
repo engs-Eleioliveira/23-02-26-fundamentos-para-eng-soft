@@ -1,3 +1,3 @@
-# Titulo Principal
+# Titulo Primario
 ## Titulo Secundario
 ### Titulo Terciario
